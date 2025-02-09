@@ -17,7 +17,7 @@ This project is a task management application built with React. It allows users 
 - Local Storage for data persistence
 
 ## Contact Information
-For any inquiries, please reach out to [your-email@example.com].
+For any inquiries, please reach out to [rahulsahu050504@gmail.com].
 
 ## Components Overview
 - **Auth Components**
